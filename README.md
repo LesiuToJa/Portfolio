@@ -22,16 +22,16 @@ I started working as a Junior Video Game Tester in October of 2022 for the QLOC 
 ### Hard skills
 
 - [SQL](https://support.microsoft.com/pl-pl/topic/j%C4%99zyk-access-sql-podstawowe-poj%C4%99cia-s%C5%82ownictwo-i-sk%C5%82adnia-444d0303-cde1-424e-9a74-e8dc3e460671) - Knowledge acquired when I was at university, and with sites like [w3schools](https://www.w3schools.com/sql/), [sqlbolt](https://sqlbolt.com/)  
-- [ISTQB Foundation Level](https://istqb.org/) - Basic knowledge of concepts
+- [ISTQB Foundation Level](https://istqb.org/) - Foundational knowledge of software testing
 - Basic knowledge about software development models (waterfall, V model, iterative and incremental model, agile)
 - [C#](https://learn.microsoft.com/pl-pl/dotnet/csharp/) - Basic skills
 - [Python](https://www.python.org/) - Basic skills
-- [Flask](https://flask.palletsprojects.com/en/stable/) -Basic knowledge
+- [Flask](https://flask.palletsprojects.com/en/stable/) - Basic knowledge
 - Creating test cases
 - Creating bug reports
 - Knowledge of different types of testing
 - VirtualBox, Hyper-V - Experience from University
-- Basic knowledge of computer networking
+- Basic computer networking knowledge
 
 ### Soft skills
 
