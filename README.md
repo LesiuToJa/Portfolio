@@ -39,6 +39,6 @@ I started working as a Junior video game tester in October 2022 for the QLOC com
 - empathy
 - assertiveness
 
-Project experience
+### Project Experience
 [mobygames](https://www.mobygames.com/person/1751246/jakub-lesisz/)
 
