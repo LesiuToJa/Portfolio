@@ -2,7 +2,7 @@
 
 ### About me
 
-Hi, my name is Jakub. I have always been a fan of video games. In 2022, I started working in QA as a Junior QA Tester when I was still working on my degree in Computer Science. Currently, I find working as a QA Tester enjoyable, and I want to continue developing my skills further. I want to create this portfolio to showcase the skills I have gained through self-study, work, and education. I am committed to continuing to learn, grow, and to develop my skills in nearest future.
+Hi, my name is Jakub. I have always been interested in video games and the process behind developing them. In 2022, I started working as a Junior QA Tester while still working on my degree in Computer Science. Currently, I find working as a QA Tester enjoyable, and I want to continue developing my skills further. This portfolio showcases the skills I have gained through self-study, work, and education. I am committed to continuing to learn, grow, and develop my skills in the near future.
 
 ### Experience
 
